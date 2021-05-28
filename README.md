@@ -15,3 +15,8 @@ Cabang dapat melakukan CRUD tabel barang, Read tabel cabang, CRUD tabel tagihan
 ![TabelBarangAkunCabang](https://user-images.githubusercontent.com/38368421/119915540-ed26c600-bf8c-11eb-8dd9-d1952af7e564.png)
 ![TabelTagihanAkunCabang](https://user-images.githubusercontent.com/38368421/119915551-f2841080-bf8c-11eb-9f14-db0ed51844d5.png)
 ![TabelCabangAkunCabang](https://user-images.githubusercontent.com/38368421/119915544-eef08980-bf8c-11eb-8729-9bfe970d6b09.png)
+
+---Hak akses dari Gudang Ganesha Operation---
+Gudang dapat melakukan memberikan aksi bahwa barang telah diterima serta dapat melihat tabel cabang
+![TabelBarangAkunGudang](https://user-images.githubusercontent.com/38368421/119915541-edbf5c80-bf8c-11eb-914e-f4c03d965506.png)
+![TabelCabangAkunGudang](https://user-images.githubusercontent.com/38368421/119915547-ef892000-bf8c-11eb-9e4d-4867a2555d02.png)
